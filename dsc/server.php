@@ -2,7 +2,7 @@
 ob_start(); // ensures anything dumped out will be caught
 
 // do stuff here
-$url = 'https://discord.gg/yW2xNBY6ry'; // this can be set based on whatever
+$url = 'discord.gg/ZwYdxJnp'; // this can be set based on whatever
 
 // clear out the output buffer
 while (ob_get_status()) 
